@@ -1,0 +1,22 @@
+[
+    {
+        "dice_roll": "2",
+        "effect": "Gain advantage on initiative rolls (reroll if duplicate)"
+    },
+    {
+        "dice_roll": "3-5",
+        "effect": "Your Backstab deals +1 dice of damage"
+    },
+    {
+        "dice_roll": "6-9",
+        "effect": "+2 to Strength, Dexterity, or Charisma stat"
+    },
+    {
+        "dice_roll": "10-11",
+        "effect": "+1 to melee and ranged attacks"
+    },
+    {
+        "dice_roll": "12",
+        "effect": "Choose a talent or +2 points to distribute to stats"
+    }
+]

@@ -1,6 +1,7 @@
 const burger = document.querySelector('.burger');
 const navbar = document.querySelector('.navbar');
 const navLink = document.querySelectorAll('.nav-link');
+const home = document.querySelector('.home');
 
 let scrollX = 0;
 let scrollY = 0;
@@ -22,3 +23,8 @@ burger.addEventListener('click', () => {
         window.scrollTo(0, 0);
     }
 });
+
+home.addEventListener('click', () =>{
+    window.location.href = '../index.html';
+});
+

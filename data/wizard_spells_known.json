@@ -1,0 +1,82 @@
+[
+    {
+        "level": "1",
+        "spell_level_1": "3",
+        "spell_level_2": "-",
+        "spell_level_3": "-",
+        "spell_level_4": "-",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "2",
+        "spell_level_1": "4",
+        "spell_level_2": "-",
+        "spell_level_3": "-",
+        "spell_level_4": "-",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "3",
+        "spell_level_1": "4",
+        "spell_level_2": "1",
+        "spell_level_3": "-",
+        "spell_level_4": "-",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "4",
+        "spell_level_1": "4",
+        "spell_level_2": "2",
+        "spell_level_3": "-",
+        "spell_level_4": "-",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "5",
+        "spell_level_1": "4",
+        "spell_level_2": "2",
+        "spell_level_3": "1",
+        "spell_level_4": "-",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "6",
+        "spell_level_1": "4",
+        "spell_level_2": "3",
+        "spell_level_3": "2",
+        "spell_level_4": "-",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "7",
+        "spell_level_1": "4",
+        "spell_level_2": "3",
+        "spell_level_3": "2",
+        "spell_level_4": "1",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "8",
+        "spell_level_1": "4",
+        "spell_level_2": "4",
+        "spell_level_3": "2",
+        "spell_level_4": "2",
+        "spell_level_5": "-"
+    },
+    {
+        "level": "9",
+        "spell_level_1": "4",
+        "spell_level_2": "4",
+        "spell_level_3": "3",
+        "spell_level_4": "2",
+        "spell_level_5": "1"
+    },
+    {
+        "level": "10",
+        "spell_level_1": "4",
+        "spell_level_2": "4",
+        "spell_level_3": "4",
+        "spell_level_4": "2",
+        "spell_level_5": "2"
+    }
+]

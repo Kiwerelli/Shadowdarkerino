@@ -1,0 +1,22 @@
+[
+    {
+        "dice_roll": "2",
+        "effect": "Gain advantage on casting one spell you know"
+    },
+    {
+        "dice_roll": "3-6",
+        "effect": "+1 to melee or ranged attacks"
+    },
+    {
+        "dice_roll": "7-9",
+        "effect": "+1 to priest spellcasting checks"
+    },
+    {
+        "dice_roll": "10-11",
+        "effect": "+2 to Strength or Wisdom stat"
+    },
+    {
+        "dice_roll": "12",
+        "effect": "Choose a talent or +2 points to distribute to stats"
+    }
+]

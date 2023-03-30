@@ -1,0 +1,22 @@
+[
+    {
+        "dice_roll": "2",
+        "effect": "Gain Weapon Mastery with one additional weapon"
+    },
+    {
+        "dice_roll": "3-6",
+        "effect": "+1 to melee and ranged attacks"
+    },
+    {
+        "dice_roll": "7-9",
+        "effect": "+2 to Strength, Dexterity, or Constitution stat"
+    },
+    {
+        "dice_roll": "10-11",
+        "effect": "Choose one kind of armor. You get +1 AC from that armor"
+    },
+    {
+        "dice_roll": "12",
+        "effect": "Choose a talent or +2 points to distribute to stats"
+    }
+]

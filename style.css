@@ -24,6 +24,7 @@ body {
     background-color: #ffffff;
     position: relative;
     min-height: 100vh;
+    padding-bottom: 25px;
 }
 
 .black-bar {
@@ -56,25 +57,56 @@ body {
 .container {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 0 1rem;
-    margin-top: 100px;
+    padding: 0 1.5rem;
+    margin-top: 80px;
 
 }
 .container .single-item h2 {
     color: #000000;
     font-family: Blackletter;
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
     word-spacing: 0.2rem;
     letter-spacing: 1px;
     border-bottom: 2px solid #000000;
     margin-bottom: 0px;
+    border-top: 2px solid #000000;
+    padding-top: 8px;
+}
+.container .single-item h3 {
+    color: #000000;
+    font-family: OldNewspaper;
+    font-size: 1.5rem;
+    text-align: center;
+    word-spacing: 0.2rem;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #000000;
+    margin-bottom: 0px;
 }
 .container .single-item p {
     color: #000000;
     font-family: Montserrat;
-    font-size: 1.3rem;
+    font-size: 1rem;
     text-align: left;
     font-weight: 400;
 
+}
+table { 
+    border-collapse: collapse;
+    width:100%;
+
+}
+
+tr {
+    text-align: center;
+    border-top: 1px solid #000000;
+}
+.left-table tr {
+    text-align: left;
+}
+.left-table tr td {
+padding-right: 10px;
+}
+.left-table tr td:nth-of-type(1) {
+    text-align: center;
 }

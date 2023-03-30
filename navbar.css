@@ -16,6 +16,16 @@
     border-radius: 2px;
     transition: 0.3s ease all;
 }
+.home {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    font-size: 2rem;
+    color: #ffffff;
+    cursor: pointer;
+    z-index: 2;
+    display: flex;
+}
 .burger {
     position: absolute;
     top: 25px;
@@ -55,7 +65,7 @@
 }
 .navbar .nav-links {
     position: absolute;
-    top: 15%;
+    top: 50vh;
     left: 50%;
     transform: translate(-50%, -50%);
 }
