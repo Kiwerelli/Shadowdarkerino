@@ -104,6 +104,9 @@ table {
 table.small-table {
     font-size: 0.9rem;
 }
+table.smallest-table {
+    font-size: 0.8rem;
+}
 tr {
     text-align: center;
     border-top: 1px solid #000000;
