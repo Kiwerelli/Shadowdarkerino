@@ -1,0 +1,42 @@
+[
+    {
+        "language": "Common",
+        "spoken_by": "Most humanoids"
+    },
+    {
+        "language": "Dwarvish",
+        "spoken_by": "Dwarves"
+    },
+    {
+        "language": "Elvish",
+        "spoken_by": "Elves"
+    },
+    {
+        "language": "Giant",
+        "spoken_by": "Giants, ogres, trolls"
+    },
+    {
+        "language": "Goblin",
+        "spoken_by": "Bugbears, goblins, hobgoblins"
+    },
+    {
+        "language": "Merran",
+        "spoken_by": "Merfolk, sahuagin, sirens"
+    },
+    {
+        "language": "Orcish",
+        "spoken_by": "Orcs"
+    },
+    {
+        "language": "Reptilian",
+        "spoken_by": "Lizardfolk, viperians"
+    },
+    {
+        "language": "Sylvan",
+        "spoken_by": "Centaurs, dryads, faeries"
+    },
+    {
+        "language": "Thanian",
+        "spoken_by": "Minotaurs, beastmen, manticores"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "language": "Celestial",
+        "spoken_by": "Angels"
+    },
+    {
+        "language": "Diabolic",
+        "spoken_by": "Demons, devils"
+    },
+    {
+        "language": "Draconic",
+        "spoken_by": "Dragons"
+    },
+    {
+        "language": "Primordial",
+        "spoken_by": "Elder things, elementals"
+    }
+]

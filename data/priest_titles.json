@@ -1,0 +1,32 @@
+[
+    {
+        "level": "1-2",
+        "lawful": "Acolyte",
+        "chaotic": "Initiate",
+        "neutral": "Seeker"
+    },
+    {
+        "level": "3-4",
+        "lawful": "Crusader",
+        "chaotic": "Zealot",
+        "neutral": "Invoker"
+    },
+    {
+        "level": "5-6",
+        "lawful": "Templar",
+        "chaotic": "Cultist",
+        "neutral": "Haruspex"
+    },
+    {
+        "level": "7-8",
+        "lawful": "Champion",
+        "chaotic": "Scourge",
+        "neutral": "Mystic"
+    },
+    {
+        "level": "9-10",
+        "lawful": "Paladin",
+        "chaotic": "Chaos Knight",
+        "neutral": "Oracle"
+    }
+]

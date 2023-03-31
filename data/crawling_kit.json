@@ -1,0 +1,44 @@
+[
+    {
+        "items": "Backpack",
+        "quantity": "1",
+        "gear_slots": "0",
+        "cost": "2gp"
+    },
+    {
+        "items": "Flint and steel",
+        "quantity": "1",
+        "gear_slots": "1",
+        "cost": "5sp"
+    },
+    {
+        "items": "Torch",
+        "quantity": "2",
+        "gear_slots": "2",
+        "cost": "1gp"
+    },
+    {
+        "items": "Rations",
+        "quantity": "3",
+        "gear_slots": "1",
+        "cost": "5sp"
+    },
+    {
+        "items": "Iron spikes",
+        "quantity": "10",
+        "gear_slots": "1",
+        "cost": "1gp"
+    },
+    {
+        "items": "Grappling hook",
+        "quantity": "1",
+        "gear_slots": "1",
+        "cost": "1gp"
+    },
+    {
+        "items": "Rope, 60'",
+        "quantity": "1",
+        "gear_slots": "1",
+        "cost": "1gp"
+    }
+]

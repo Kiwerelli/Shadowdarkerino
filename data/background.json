@@ -1,0 +1,82 @@
+[
+    {
+        "dice_roll": "1",
+        "details": "<b>Urchin.</b> You grew up in the merciless streets of a large city"
+    },
+    {
+        "dice_roll": "2",
+        "details": "<b>Wanted.</b> There's a price on your head, but you have allies"
+    },
+    {
+        "dice_roll": "3",
+        "details": "<b>Cult Initiate.</b> You know blasphemous secrets and rituals"
+    },
+    {
+        "dice_roll": "4",
+        "details": "<b>Thieves' Guild.</b> You have connections, contacts, and debts"
+    },
+    {
+        "dice_roll": "5",
+        "details": "<b>Banished.</b> Your people cast you out for supposed crimes"
+    },
+    {
+        "dice_roll": "6",
+        "details": "<b>Orphaned.</b> An unusual guardian rescued and raised you"
+    },
+    {
+        "dice_roll": "7",
+        "details": "<b>Wizard's Apprentice.</b> You have a knack and eye for magic"
+    },
+    {
+        "dice_roll": "8",
+        "details": "<b>Jeweler.</b> You can easily appraise value and authenticity"
+    },
+    {
+        "dice_roll": "9",
+        "details": "<b>Jeweler,</b> You know plants, medicines, and poisons"
+    },
+    {
+        "dice_roll": "10",
+        "details": "<b>Barbarian.</b> You left the horde, but it never quite left you"
+    },
+    {
+        "dice_roll": "11",
+        "details": "<b>Mercenary.</b> You fought friend and foe alike for your coin"
+    },
+    {
+        "dice_roll": "12",
+        "details": "<b>Sailor.</b> Pirate, privateer, or merchant — the seas are yours"
+    },
+    {
+        "dice_roll": "13",
+        "details": "<b>Acolyte.</b> You're well trained in religious rites and doctrines"
+    },
+    {
+        "dice_roll": "14",
+        "details": "<b>Soldier.</b> You served as a fighter in an organized army"
+    },
+    {
+        "dice_roll": "15",
+        "details": "<b>Ranger.</b> The woods and wilds are your true home"
+    },
+    {
+        "dice_roll": "16",
+        "details": "<b>Scout.</b> You survived on stealth, observation, and speed"
+    },
+    {
+        "dice_roll": "17",
+        "details": "<b>Minstrel.</b> You've traveled far with your charm and talent"
+    },
+    {
+        "dice_roll": "18",
+        "details": "<b>Scholar.</b> You know much about ancient history and lore"
+    },
+    {
+        "dice_roll": "19",
+        "details": "<b>Noble</b> A famous name has opened many doors for you"
+    },
+    {
+        "dice_roll": "20",
+        "details": "<b>Chirurgeon.</b> You know anatomy, surgery, and first aid"
+    }
+]

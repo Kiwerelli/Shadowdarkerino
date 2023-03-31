@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../navbar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Gear</title>
+</head>
+<body>
+    <div class="black-bar sticky"></div>
+    
+    <div class="home sticky">
+        <i class="fa fa-home"></i>
+    </div>
+    
+    <div class="burger sticky">
+        <i class="fas fa-bars fa-2x"></i>
+        <i class="fas fa-times fa-2x"></i>
+    </div>
+    
+    <div class="header sticky">
+        <span class="small-span">Gear/Armor/Weapon</span>
+    </div>
+    
+    <nav class="navbar">
+        <ul class="nav-links">
+            <li class="nav-link"><a href="../pages/ancestry.html">Ancestry</a></li>
+            <li class="nav-link"><a href="../pages/classes.html">Classes</a></li>
+            <li class="nav-link"><a href="../pages/alignment.html">Alignment</a></li>
+            <li class="nav-link"><a href="../pages/background_titles.html">Background & Titles</a></li>
+            <li class="nav-link"><a href="../pages/gear.html">Gear & Armor/Weapons</a></li>
+            <li class="nav-link"><a href="../pages/level_advancement.html">Level Advancement</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <div class="single-item">
+            <h2>Gear</h2>
+            <p>
+                <b>Arrows.</b> Ammunition for
+                shortbows or longbows.<br><br>
+                <b>Backpack.</b> Holds all the gear you
+                can carry. Don't lose it.<br><br>
+                <b>Caltrops.</b> Tiny, triangle-shaped
+                iron spikes. Living creatures who
+                step on caltrops take 1 damage
+                and can only move at half speed
+                for 10 rounds.<br><br>
+                <b>Coin.</b> One gold piece (<b>gp</b>) is
+                worth 10 silver pieces (<b>sp</b>) and
+                100 copper pieces (<b>cp</b>).<br><br>
+                <b>Crossbow bolts.</b> Ammunition for
+                crossbows.<br><br>
+                <b>Crowbar.</b> Grants advantage
+                on checks to pry open stuck
+                objects.<br><br>
+                <b>Flask or bottle.</b> Glass containers
+                that hold one draught of liquid.<br><br>
+                <b>Flint and steel.</b> A small fire
+                starter. With it, routine attempts
+                to light a fire always succeed.<br><br>
+                <b>Gem.</b> Gems come in numerous
+                varieties and are very valuable.<br><br>
+                <b>Grappling hook.</b> A rope anchor
+                with three, curved tines.<br><br>
+                <b>Iron spikes.</b> Strong spikes.
+                Each has a hole for threading
+                rope. Can be hammered in with
+                weapons or other iron spikes.<br><br>
+                <b>Lantern.</b> Casts light up to a
+                double near distance. Requires oil. Has a
+                shutter to hide the light.<br><br>
+                <b>Mirror.</b> A small, polished mirror.<br><br>
+                <b>Oil flask.</b> Fuels a lantern for
+                one hour of real time. One flask
+                covers a close area and burns for
+                4 rounds, dealing 1d4 damage
+                each round.<br><br>
+                <b>Pole.</b> Wooden, 10' long.<br><br>
+                <b>Rations.</b> One day of food and
+                water supply for one person.<br><br>
+                <b>Rope.</b> Hemp, 60' long.<br><br>
+                <b>Torch.</b> Sheds light to a near
+                distance. Burns for one hour of real
+                time.
+            </p>
+            <h3>Basic Gear</h3>
+            <table id="basic_gear">
+                <thead>
+                    <tr>
+                        <th scope="col">Item</th>
+                        <th scope="col">Cost</th>
+                        <th scope="col">Quantity per gear slot</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <div class="single-item">
+            <h3>Gear Slots</h3>
+            <p>
+                You can carry a number of items equal to your Strength stat or 10,
+                whichever is higher.<br><br>
+                Unless noted, all gear besides typical clothing fills one <b>gear slot</b>.
+                Gear that is hard to transport might fill more than one slot.
+            </p>
+        </div>
+        <div class="single-item">
+            <h3>Crawling Kit</h3>
+            <p>
+                A crawling kit costs 7 gp. It uses 7 gear slots and contains the
+                following items. 
+            </p>
+            <table id="crawling_kit">
+                <thead>
+                    <tr>
+                        <th scope="col">Items</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Gear Slots</th>
+                        <th scope="col">Cost</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <div class="single-item">
+            <h2>Armor and Weapons</h2>
+            <h3>Armor</h3>
+            <table id="armor_table" class="small-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Item</th>
+                        <th scope="col">Cost</th>
+                        <th scope="col">Gear Slots</th>
+                        <th scope="col">AC</th>
+                        <th scope="col">Properties</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <h3>Weapons</h3>
+            <table id="weapons_table" class="small-table">
+                <thead>
+                    <tr>
+                        <th scope="col">Weapon</th>
+                        <th scope="col">Cost</th>
+                        <th scope="col">Type</th>
+                        <th scope="col">Range</th>
+                        <th scope="col">Damage</th>
+                        <th scope="col">Properties</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <p>
+                <b>Finesse (F).</b> You can use your
+                Strength or Dexterity when
+                attacking with this weapon.<br><br>
+                <b>Loading (L).</b> You must forgo
+                moving to reload this weapon.<br><br>
+                <b>Thrown (Th).</b> You can throw this
+                weapon to make a ranged attack
+                with it using Strength.<br><br>
+                <b>Two-handed (2H).</b> You must use
+                this weapon with two hands.<br><br>
+                <b>Versatile (V).</b> You can use this
+                weapon with one or two hands.
+                Use the higher damage die if
+                you're wielding it with two.<br><br>
+                <b>Weapon types.</b> Melee weapons
+                (M) strike at arm's reach, and
+                ranged weapons (R) strike at a
+                distance.<br><br>
+                <b>Range.</b> You can use a weapon at
+                close (C), near (N), or far (F) range.
+            </p>
+        </div>
+    </div>
+    
+    <script src="../index.js"></script>
+    <script src="../loader.js"></script>
+</body>
+</html>

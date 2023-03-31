@@ -1,0 +1,122 @@
+[
+    {
+        "weapon": "Bastard sword",
+        "cost": "10 gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d8/1d10",
+        "properties": "V, 2 slots"
+    },
+    {
+        "weapon": "Club",
+        "cost": "5 cp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d4",
+        "properties": "-"
+    },
+    {
+        "weapon": "Crossbow",
+        "cost": "8 gp",
+        "type": "R",
+        "range": "F",
+        "damage": "1d6",
+        "properties": "2H, L"
+    },
+    {
+        "weapon": "Dagger",
+        "cost": "1 gp",
+        "type": "M/R",
+        "range": "C/N",
+        "damage": "1d4",
+        "properties": "F, Th"
+    },
+    {
+        "weapon": "Greataxe",
+        "cost": "10 gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d8/1d10",
+        "properties": "V, 2 slots"
+    },
+    {
+        "weapon": "Greatsword",
+        "cost": "12 gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1f12",
+        "properties": "2H, 2 slots"
+    },
+    {
+        "weapon": "Javelin",
+        "cost": "5 sp",
+        "type": "M/R",
+        "range": "C/F",
+        "damage": "1d4",
+        "properties": "Th"
+    },
+    {
+        "weapon": "Longbow",
+        "cost": "8 gp",
+        "type": "R",
+        "range": "F",
+        "damage": "1d8",
+        "properties": "2H"
+    },
+    {
+        "weapon": "Longsword",
+        "cost": "9 gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d8",
+        "properties": "-"
+    },
+    {
+        "weapon": "Mace",
+        "cost": "5  gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d6",
+        "properties": "-"
+    },
+    {
+        "weapon": "Shortbow",
+        "cost": "6 gp",
+        "type": "R",
+        "range": "F",
+        "damage": "1d4",
+        "properties": "2H"
+    },
+    {
+        "weapon": "Shortsword",
+        "cost": "7 gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d6",
+        "properties": "-"
+    },
+    {
+        "weapon": "Spear",
+        "cost": "5 sp",
+        "type": "M/R",
+        "range": "C/N",
+        "damage": "1d6",
+        "properties": "Th"
+    },
+    {
+        "weapon": "Staff",
+        "cost": "5 sp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d4",
+        "properties": "2H"
+    },
+    {
+        "weapon": "Warhammer",
+        "cost": "10 gp",
+        "type": "M",
+        "range": "C",
+        "damage": "1d10",
+        "properties": "2H"
+    }
+]

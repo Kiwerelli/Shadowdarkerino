@@ -1,0 +1,32 @@
+[
+    {
+        "level": "1-2",
+        "lawful": "Footpad",
+        "chaotic": "Thug",
+        "neutral": "Robber"
+    },
+    {
+        "level": "3-4",
+        "lawful": "Burglar",
+        "chaotic": "Cutthroat",
+        "neutral": "Outlaw"
+    },
+    {
+        "level": "5-6",
+        "lawful": "Rook",
+        "chaotic": "Shadow",
+        "neutral": "Rogue"
+    },
+    {
+        "level": "7-8",
+        "lawful": "Underboss",
+        "chaotic": "Assassin",
+        "neutral": "Renegade"
+    },
+    {
+        "level": "9-10",
+        "lawful": "Boss",
+        "chaotic": "Wraith",
+        "neutral": "Bandit King/Queen"
+    }
+]

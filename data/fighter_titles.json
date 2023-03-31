@@ -1,0 +1,32 @@
+[
+    {
+        "level": "1-2",
+        "lawful": "Squire",
+        "chaotic": "Knave",
+        "neutral": "Warrior"
+    },
+    {
+        "level": "3-4",
+        "lawful": "Cavalier",
+        "chaotic": "Bandit",
+        "neutral": "Barbarian"
+    },
+    {
+        "level": "5-6",
+        "lawful": "Knight",
+        "chaotic": "Slayer",
+        "neutral": "Battlerager"
+    },
+    {
+        "level": "7-8",
+        "lawful": "Thane",
+        "chaotic": "Reaver",
+        "neutral": "Warchief"
+    },
+    {
+        "level": "9-10",
+        "lawful": "Lord/Lady",
+        "chaotic": "Warlord",
+        "neutral": "Chieftain"
+    }
+]

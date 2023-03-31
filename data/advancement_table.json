@@ -1,0 +1,52 @@
+[
+    {
+        "level": "1",
+        "talent": "+1",
+        "exp": "10 XP"
+    },
+    {
+        "level": "2",
+        "talent": "-",
+        "exp": "20 XP"
+    },
+    {
+        "level": "3",
+        "talent": "+1",
+        "exp": "30 XP"
+    },
+    {
+        "level": "4",
+        "talent": "-",
+        "exp": "40 XP"
+    },
+    {
+        "level": "5",
+        "talent": "+1",
+        "exp": "50 XP"
+    },
+    {
+        "level": "6",
+        "talent": "-",
+        "exp": "60 XP"
+    },
+    {
+        "level": "7",
+        "talent": "+1",
+        "exp": "70 XP"
+    },
+    {
+        "level": "8",
+        "talent": "-",
+        "exp": "80 XP"
+    },
+    {
+        "level": "9",
+        "talent": "+1",
+        "exp": "90 XP"
+    },
+    {
+        "level": "10",
+        "talent": "-",
+        "exp": "100 XP"
+    }
+]

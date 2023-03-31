@@ -53,9 +53,14 @@ body {
     font-family: OldNewspaper;
     font-weight: bold;
 }
+.header span.small-span  {
+    font-size: 1.5rem;
+    margin-top: 5px;
+}
 
 .container {
     max-width: 1100px;
+    min-width: 100vw;
     margin: 0 auto;
     padding: 0 1.5rem;
     margin-top: 80px;
@@ -96,7 +101,9 @@ table {
     width:100%;
 
 }
-
+table.small-table {
+    font-size: 0.9rem;
+}
 tr {
     text-align: center;
     border-top: 1px solid #000000;
@@ -105,7 +112,7 @@ tr {
     text-align: left;
 }
 .left-table tr td {
-padding-right: 10px;
+    padding-right: 10px;
 }
 .left-table tr td:nth-of-type(1) {
     text-align: center;
